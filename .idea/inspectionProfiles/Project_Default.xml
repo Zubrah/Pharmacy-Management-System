@@ -1,0 +1,55 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="17">
+            <item index="0" class="java.lang.String" itemvalue="ng-app" />
+            <item index="1" class="java.lang.String" itemvalue="ng-model" />
+            <item index="2" class="java.lang.String" itemvalue="ng-src" />
+            <item index="3" class="java.lang.String" itemvalue="repeat-music" />
+            <item index="4" class="java.lang.String" itemvalue="play-music" />
+            <item index="5" class="java.lang.String" itemvalue="pause-music" />
+            <item index="6" class="java.lang.String" itemvalue="next-track" />
+            <item index="7" class="java.lang.String" itemvalue="ng-show" />
+            <item index="8" class="java.lang.String" itemvalue="prev-track" />
+            <item index="9" class="java.lang.String" itemvalue="seek-track" />
+            <item index="10" class="java.lang.String" itemvalue="ng-style" />
+            <item index="11" class="java.lang.String" itemvalue="ng-controller" />
+            <item index="12" class="java.lang.String" itemvalue="music-player" />
+            <item index="13" class="java.lang.String" itemvalue="add-song" />
+            <item index="14" class="java.lang.String" itemvalue="ng-mouseleave" />
+            <item index="15" class="java.lang.String" itemvalue="ng-mouseover" />
+            <item index="16" class="java.lang.String" itemvalue="ng-repeat" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="7">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="sound-manager" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
